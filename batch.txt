@@ -1,0 +1,14 @@
+10AM-Batch : 
+Online -> 2 - Santosh, yashpal
+Offline -> 1 - Nagendra
+Topic -> Express (CRUD with fs)
+
+12PM - Batch : 
+Online -> 8 - Amanpreet, Ashish, Gopal, Lalit, Megha, Ashish B, Sagar, Yashpal
+Offline -> 3 - GaganDeep, Priyanka, Pankaj 
+Topic -> React (Dynamic Styles and Practice Project)
+
+4:30PM - Batch : 
+Online -> 3 - Bhavesh, Nikhil, Jyoti
+Offline -> 2 - Devansh, Rahul
+Topic -> React (Practice Project on components)
